@@ -1,0 +1,22 @@
+body {
+    background-color: #eeeeee;
+    background-image: url("webdevelopment-bg.jpg");
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+}
+
+.App {
+    text-align: center;
+    margin: auto;
+    width: 360px;
+    margin-top:30px;
+}
+
+.main-head{
+    font-size:200%;
+    text-align: center;
+    margin-bottom:15px;
+    margin-top:15px;
+    color:rgb(122, 253, 199);
+}
